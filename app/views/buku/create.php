@@ -17,7 +17,7 @@ $submitLabel = 'Simpan';
     <div class="container">
         <h2>Tambah Buku</h2>
         <?php require __DIR__ . '/../partials/flash.php'; ?>
-        <?php require __DIR__ . '/_form.php'; ?>
+        <?php require __DIR__ . '/form.php'; ?>
     </div>
 </body>
 </html>
